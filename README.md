@@ -4,8 +4,8 @@
 ---
 
 ## leetcode https://leetcode.com/problems
-- [1.Two-Sum.md](./leetcode/1.Two-Sum.md)
-- [2.Add-Two-Numbers.md](./leetcode/2.Add-Two-Numbers.md)
+- [0001.Two-Sum.md](./leetcode/0001.Two-Sum.md)
+- [0002.Add-Two-Numbers.md](./leetcode/0002.Add-Two-Numbers.md)
 - [](./leetcode/)
 - [](./leetcode/)
 - [](./leetcode/)
