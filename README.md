@@ -6,7 +6,7 @@
 ## leetcode https://leetcode.com/problems
 - [0001.Two-Sum.md](./leetcode/0001.Two-Sum.md)
 - [0002.Add-Two-Numbers.md](./leetcode/0002.Add-Two-Numbers.md)
-- [](./leetcode/)
+- [0706.Design-HashMap.md](./leetcode/0706.Design-HashMap.md)
 - [](./leetcode/)
 - [](./leetcode/)
 - [](./leetcode/)
