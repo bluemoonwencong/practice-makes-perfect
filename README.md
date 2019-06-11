@@ -1,7 +1,8 @@
 # practice-makes-perfect
 刷题，**一直刷一直刷可能要反复刷5年的呢**。考虑到阅读效果，用这样的目录结构方便Typora阅读，同时也方便直接在github上看。
 
----
+----
+----
 
 ## leetcode https://leetcode.com/problems
 - [0001.Two-Sum.md](./leetcode/0001.Two-Sum.md)
